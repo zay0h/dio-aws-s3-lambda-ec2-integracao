@@ -39,7 +39,7 @@ A segurança é central, focando no princípio do mínimo privilégio:
 
 A validação final ocorreu via log do CloudWatch, provando que a Função Lambda executou com sucesso a simulação de orquestração do EC2:
 
-![Log de Sucesso da Invocação](/images/prova_sucesso_cloudwatch.png)
+![Log de Sucesso da Invocação](prova_sucesso_cloudwatch.png)
 
 ---
 
