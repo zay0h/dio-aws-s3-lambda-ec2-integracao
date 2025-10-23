@@ -36,7 +36,7 @@ O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de 
 
 * **Fluxo:** `S3 (Trigger)` ➡️ `Lambda` ➡️ `DynamoDB`.
 
-![Diagrama da Arquitetura Serverless](/images/diagrama_serverless.png)
+![Diagrama da Arquitetura Serverless](diagrama_serverless.png)
 
 ---
 
