@@ -24,6 +24,7 @@ Este repositório documenta o laboratório prático de integração de serviços
 * **AWS CLI:** Utilizado para automatizar tarefas de IAM via linha de comando.
 * **Ciclo de Vida EC2:** A distinção entre `Stop` e `Terminate` é crucial para a otimização de custos.
 * **Monitoramento:** A importância do CloudWatch para a resiliência operacional.
+* **AMI e Snapshots:** Compreensão da criação de AMIs para replicabilidade e Snapshots EBS para backup e recuperação de desastres.
 
 ---
 
@@ -54,6 +55,8 @@ O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de 
 ![Diagrama da Arquitetura Serverless](diagrama_serverless.png)
 
 
+### Processo de Gerenciamento de Imagens e Backup
+![Fluxo de Criação de AMI e Snapshot](/images/diagrama_ami_snapshot.png)
 
 ---
 
