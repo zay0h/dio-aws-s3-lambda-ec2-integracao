@@ -35,6 +35,13 @@ A segurança é central, focando no princípio do mínimo privilégio:
 * **Método:** O fluxo de trabalho foi validado via **Teste Manual Síncrono** na console Lambda, simulando o evento de upload do S3.
 * **Resultado:** O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role (`Lambda-Orchestrator-Role`)** está configurada corretamente e a lógica de orquestração da Função Lambda foi executada com êxito.
 
+### 4.1 Prova Final de Execução (Teste de Sucesso)
+
+A validação final ocorreu via log do CloudWatch, provando que a Função Lambda executou com sucesso a simulação de orquestração do EC2:
+
+![Log de Sucesso da Invocação](/images/prova_sucesso_cloudwatch.png)
+
+---
 
 ## 🖼️ Visualização da Arquitetura
 
