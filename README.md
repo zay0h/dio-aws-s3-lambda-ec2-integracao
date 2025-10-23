@@ -35,7 +35,7 @@ O fluxo de trabalho foi validado via **Teste Manual Síncrono** na console Lambd
 ### 4.2 Prova de Execução (Sucesso)
 O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role** está configurada e a lógica de orquestração da Função Lambda foi executada com êxito.
 
-![Log de Sucesso da Invocação](prova_sucesso_cloudwatch.png)
+![Log de Sucesso da Invocação](prova_sucesso_cloudwatch.png.png)
 
 ---
 
