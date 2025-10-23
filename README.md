@@ -30,6 +30,16 @@ A segurança é central, focando no princípio do mínimo privilégio:
 
 ---
 
+## 🖼️ Visualização da Arquitetura
+
+O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de processamento de dados orientado a eventos do laboratório:
+
+* **Fluxo:** `S3 (Trigger)` ➡️ `Lambda` ➡️ `DynamoDB`.
+
+![Diagrama da Arquitetura Serverless](/images/diagrama_serverless.png)
+
+---
+
 ## 📚 Documentação Técnica Detalhada
 
 O detalhamento das configurações, comandos e conceitos teóricos está organizado na pasta `/docs`:
