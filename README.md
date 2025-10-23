@@ -38,11 +38,11 @@ Este repositório documenta o laboratório prático de integração de serviços
 
 O detalhamento das configurações, comandos e conceitos teóricos está organizado na pasta de documentos do projeto:
 
-* [Conceitos Fundamentais da Cloud e Modelos de Serviço](documentos/conceitos-cloud-base.md)
-* [Segurança da Conta Root e Práticas IAM](documentos/iam-security-root.md)
-* [Gerenciamento de Identidades e Políticas IAM](documentos/iam-identity-management.md)
-* [Infraestrutura EC2, EBS, IP Elástico e Monitoramento](documentos/ec2-iaas.md)
-* [S3, Lambda e o Fluxo de Integração Serverless](documentos/s3-lambda-integracao.md)
-* [Comandos Essenciais: CLI, SSH e Configuração de Grupos](documentos/automacao-cli-e-grupos.md)
+* [Conceitos Fundamentais da Cloud e Modelos de Serviço](conceitos-cloud-base.mdd)
+* [Segurança da Conta Root e Práticas IAM](iam-security-root.md)
+* [Gerenciamento de Identidades e Políticas IAM](iam-identity-management.md)
+* [Infraestrutura EC2, EBS, IP Elástico e Monitoramento](ec2-iaas.md)
+* [S3, Lambda e o Fluxo de Integração Serverless](s3-lambda-integracao.md)
+* [Comandos Essenciais: CLI, SSH e Configuração de Grupos](automacao-cli-e-grupos.md)
 
 ---
