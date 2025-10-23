@@ -56,7 +56,7 @@ O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de 
 
 
 ### Processo de Gerenciamento de Imagens e Backup
-![Fluxo de Criação de AMI e Snapshot](/images/diagrama_ami_snapshot.png)
+![Fluxo de Criação de AMI e Snapshot](diagrama_ami_snapshot.png)
 
 ---
 
