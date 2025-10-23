@@ -29,8 +29,31 @@ Este repositório documenta o laboratório prático de integração de serviços
 
 ## 4. Teste e Validação Final do Projeto
 
-* **Método de Validação:** O fluxo foi validado via **Teste Manual Síncrono** na console Lambda, simulando o evento de upload do S3.
-* **Resultado Comprovado:** O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role** está configurada e a lógica de orquestração da Função Lambda foi executada com êxito.
+### 4.1 Método de Validação
+O fluxo de trabalho foi validado via **Teste Manual Síncrono** na console Lambda, simulando o evento de upload do S3.
+
+### 4.2 Prova de Execução (Sucesso)
+O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role** está configurada e a lógica de orquestração da Função Lambda foi executada com êxito.
+
+![Log de Sucesso da Invocação](prova_sucesso_cloudwatch.png)
+
+---
+
+## 🖼️ Visualização da Arquitetura
+
+
+
+O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de processamento de dados orientado a eventos do laboratório:
+
+
+
+* **Fluxo:** `S3 (Trigger)` ➡️ `Lambda` ➡️ `DynamoDB`.
+
+
+
+![Diagrama da Arquitetura Serverless](diagrama_serverless.png)
+
+
 
 ---
 
