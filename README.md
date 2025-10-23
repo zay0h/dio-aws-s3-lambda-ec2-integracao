@@ -30,6 +30,12 @@ A segurança é central, focando no princípio do mínimo privilégio:
 
 ---
 
+## 4. Teste e Validação Final
+
+* **Método:** O fluxo de trabalho foi validado via **Teste Manual Síncrono** na console Lambda, simulando o evento de upload do S3.
+* **Resultado:** O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role (`Lambda-Orchestrator-Role`)** está configurada corretamente e a lógica de orquestração da Função Lambda foi executada com êxito.
+
+
 ## 🖼️ Visualização da Arquitetura
 
 O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de processamento de dados orientado a eventos do laboratório:
