@@ -54,17 +54,12 @@ O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de 
 ---
 
 ## 📚 Documentação Técnica Detalhada
+O detalhamento das configurações, comandos e conceitos teóricos está organizado na pasta `/documentos`:
 
-O detalhamento das configurações, comandos e conceitos teóricos está organizado na pasta `/docs`:
+* [Conceitos Fundamentais da Cloud e Modelos de Serviço](documentos/conceitos-cloud-base.md)
+* [Segurança da Conta Root e Práticas IAM](documentos/iam-security-root.md)
+* [Gerenciamento de Identidades e Políticas IAM](documentos/iam-identity-management.md)
+* [Infraestrutura EC2, EBS, IP Elástico e Monitoramento](documentos/ec2-iaas.md)
+* [S3, Lambda e o Fluxo de Integração Serverless](documentos/s3-lambda-integracao.md)
+* [Comandos Essenciais: CLI, SSH e Configuração de Grupos](documentos/automacao-cli-e-grupos.md)
 
-* [Conceitos Fundamentais da Cloud e Modelos de Serviço](doc/conceitos-cloud-base.md)
-* [Segurança da Conta Root e Práticas IAM](doc/iam-security-root.md)
-* [Gerenciamento de Identidades e Políticas IAM](doc/iam-identity-management.md)
-* [Infraestrutura EC2, EBS, IP Elástico e Monitoramento](doc/ec2-iaas.md)
-* [S3, Lambda e o Fluxo de Integração Serverless](doc/s3-lambda-integracao.md)
-* [Comandos Essenciais: CLI, SSH e Configuração de Grupos](doc/automacao-cli-e-grupos.md)
-
----
-
-
-meu codigo atual
