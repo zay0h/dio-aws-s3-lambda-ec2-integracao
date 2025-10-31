@@ -1,12 +1,12 @@
-# ☁️ DIO Lab: Integração de Serviços AWS (S3, Lambda e EC2)
+# DIO Lab: Integração de Serviços AWS (S3, Lambda e EC2)
 
-## 📄 Descrição do Projeto
+## Descrição do Projeto
 
 Este repositório documenta o laboratório prático de integração de serviços AWS, simulando um fluxo de processamento de dados. O projeto foi estruturado para consolidar o conhecimento teórico e prático em **Infraestrutura (EC2), Armazenamento (S3) e Computação Serverless (Lambda)**, com foco em segurança IAM e automação CLI.
 
 ---
 
-## 💡 Principais Insights e Aprendizados
+## Principais Insights e Aprendizados
 
 ### 1. Visão Holística de Serviços (IaaS vs. PaaS)
 
@@ -40,7 +40,7 @@ O teste retornou **SUCESSO** no log do CloudWatch, provando que a **IAM Role** e
 
 ---
 
-## 🖼️ Visualização da Arquitetura
+## Visualização da Arquitetura
 
 
 
@@ -60,7 +60,7 @@ O diagrama de arquitetura, criado com o Draw.io, ilustra visualmente o fluxo de 
 
 ---
 
-## 📚 Documentação Técnica Detalhada
+## Documentação Técnica Detalhada
 
 O detalhamento das configurações, comandos e conceitos teóricos está organizado na pasta de documentos do projeto:
 
